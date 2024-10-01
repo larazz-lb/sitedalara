@@ -1,5 +1,16 @@
 body{
-    background: rgb(255,86,126);
-background: radial-gradient(circle, rgba(255,86,126,1) 0%, rgba(89,130,210,1) 47%);
+    background: rgb(116,123,218);
+background: linear-gradient(90deg, rgba(116,123,218,1) 100%, rgba(255,56,150,1) 100%);
+}
 
+header{
+    display:flex;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    font-size: 40px;
+    
 }
