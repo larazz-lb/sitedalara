@@ -8,7 +8,7 @@ header{
     justify-content: center;
 }
 
-ul{
+.nav-lista {
     display: flex;
     list-style: none;
     font-size: 40px;
