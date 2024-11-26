@@ -22,3 +22,13 @@ header{
     background-color: blueviolet;
     color: azure;                                           
 }
+
+section{
+    width: 100%;
+    padding-left: 8%;
+}
+
+.secao{
+    padding-right: 8%;
+    padding-top: 2%;
+}
