@@ -32,3 +32,9 @@ section{
     padding-right: 8%;
     padding-top: 2%;
 }
+
+.moldura{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
