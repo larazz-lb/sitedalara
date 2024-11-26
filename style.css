@@ -44,3 +44,13 @@ section{
     flex: 1 1 30%;
     margin: 10px;
 }
+
+.video iframe {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+*{
+    margin-top: 0%;
+    padding: 0%;
+}
